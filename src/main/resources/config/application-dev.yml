@@ -11,7 +11,8 @@
 # Standard Spring Boot properties.
 # Full reference is available at:
 # http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
-# ===================================================================
+# =================================================================
+
 
 logging:
   level:
@@ -70,7 +71,7 @@ spring:
     cache: false
 
 server:
-  port: 8080
+  port: 8088
 
 # ===================================================================
 # JHipster specific properties
