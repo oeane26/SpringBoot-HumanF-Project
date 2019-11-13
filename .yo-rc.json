@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ocean.humanressource"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "humanressource",
+    "packageName": "com.ocean.humanressource",
+    "packageFolder": "com/ocean/humanressource",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzZhYzExYjk4N2JjODU2YTIxOTIyNzVhODYyNGFlN2MwY2IzNDY4ODhkNDFjZDFkOTViODUzMjMwNjk2YmNmOTY1OWJlNzI4ZDA0YzM4MDk5YmZkY2M1ZmQ3MTE0MmZiNjgzNDcxYTM0NDljMGQ5M2JlOTQwNDY1YjBmYTk5ZDc=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
